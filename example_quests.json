@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "quest": "Cari artefak emas di kuil kuno",
+    "status": "Uncharted",
+    "priority": "High",
+    "due_date": "2025-10-15"
+  },
+  {
+    "id": 2,
+    "quest": "Decode peta kuno yang misterius",
+    "status": "Discovered",
+    "priority": "Medium",
+    "due_date": "2025-09-30"
+  },
+  {
+    "id": 3,
+    "quest": "Belajar Python untuk automation",
+    "status": "Uncharted",
+    "priority": "High",
+    "due_date": ""
+  },
+  {
+    "id": 4,
+    "quest": "Repair peralatan petualangan",
+    "status": "Uncharted",
+    "priority": "Low",
+    "due_date": "2025-11-01"
+  }
+]
